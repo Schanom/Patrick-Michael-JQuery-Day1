@@ -1,0 +1,43 @@
+var groceries = [{ 
+	"Name": "Milk",
+ 	"Amount": "1",
+ 	"PricePerItem": "1",
+ 	"Image": "<img width=200px height=200px src=milk.jpg>"
+},
+{ 
+	"Name": "Lemon",
+ 	"Amount": "4",
+ 	"PricePerItem": "2",
+ 	"Image": "<img width=200px height=200px src=lemon.jpg>"
+},
+{ 
+	"Name": "Orange Juice",
+ 	"Amount": "1",
+ 	"PricePerItem": "3",
+ 	"Image": "<img width=200px height=200px src=orange_juice.jpg>"
+},
+{ 
+	"Name": "French Cheese",
+ 	"Amount": "2",
+ 	"PricePerItem": "4",
+ 	"Image": "<img width=200px height=200px src=french_cheese.jpg>"
+},
+{ 
+	"Name": "Apple",
+ 	"Amount": "3",
+ 	"PricePerItem": "5",
+ 	"Image": "<img width=200px height=200px src=apple.jpg>"
+},
+{ 
+	"Name": "Salad",
+ 	"Amount": "1",
+ 	"PricePerItem": "6",
+ 	"Image": "<img width=200px height=200px src=salad.jpg>"
+},
+{ 
+	"Name": "Eggs",
+ 	"Amount": "12",
+ 	"PricePerItem": "7",
+ 	"Image": "<img width=200px height=200px src=eggs.jpg>"
+}];
+
