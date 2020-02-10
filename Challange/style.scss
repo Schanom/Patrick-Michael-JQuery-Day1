@@ -1,0 +1,25 @@
+*{	
+	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.container div	{
+	width: 25%;
+	height: 25%;
+	margin: 1em;
+	padding: 1em 2em 2em 2em;
+	border-radius: 15px;
+}
+
+img {
+	width: 100%;
+	border-radius: 15px;
+}
+
+p {
+	width: 100%;
+	font-weight: bold;
+	padding-bottom: 0.2em;
+	font-size: 1.3em;
+}
